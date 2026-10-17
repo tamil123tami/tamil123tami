@@ -35,12 +35,6 @@
 
 ---
 
-<div align="center">
-  <img src="/achievements.svg" alt="Achievements" width="100%">
-</div>
-
----
-
 ## Projects
 
 | Project | What it does | Built with |
